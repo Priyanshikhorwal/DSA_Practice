@@ -35,40 +35,6 @@ class SwapNodesinPairs {
         //[2,5,3,4,6,2,2]
         //
 
-
-
-
-        // ListNode prev=null;
-        // while(curr!=null){
-        // if(count!=0 && count%2==0){
-        //     if(prev!=null){
-        //     prev.next=curr;
-        //     }
-        //     prev=curr;
-        //     after=curr.next;
-        //     curr.next=one;
-        //     one.next=after;
-
-        //     if(istrue==true){
-        //         istrue=false;
-        //         head=curr;
-        //     }
-        //     curr=after;
-
-        // }else if(count!=0 && count%2!=0){
-
-        //     one=curr;
-        //     curr=curr.next;
-
-        // }
-        // else if(count==0){
-        //     one=curr;
-        //     head=curr;
-        //     curr=curr.next;
-
-        // }
-        // count++;
-        // }
         return head;
     }
 }
