@@ -45,9 +45,4 @@ I solve problems daily to improve consistency and problem-solving skills.
 
 ---
 
-## ⚡ Notes
 
-This README is automatically updated using a script 🤖
-Every time I add a new question, this table and count grow automatically.
-
----
