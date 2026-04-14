@@ -7,29 +7,17 @@ I solve problems daily to improve consistency and problem-solving skills.
 
 ## 📊 Progress Tracker
 
-* 🧠 Total Questions Solved: **0**
-* 📅 Started On: **N/A**
+* 🧠 Total Questions Solved on LeetCode : **56**
+
 
 ---
 
-## 🗂️ Questions List
-
-| # | Date | Problem Name | Platform | Difficulty | Link |
-| - | ---- | ------------ | -------- | ---------- | ---- |
-
-<!-- QUESTIONS_TABLE_START -->
-
-| 1 | 2026-03-19 | Two Sum | LeetCode | Easy | [Link](https://leetcode.com/problems/two-sum/) |
-
-<!-- QUESTIONS_TABLE_END -->
-
----
 
 ## 🏆 Goals
 
 * [ ] Solve 100 Questions
 * [ ] Solve 300 Questions
-* [ ] Master Arrays
+* [ ] Master Arrays 
 * [ ] Master Trees
 * [ ] Crack Coding Interviews 💼
 
