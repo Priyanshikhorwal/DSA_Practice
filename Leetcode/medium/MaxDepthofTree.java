@@ -1,6 +1,6 @@
 class MaxDepthofTree {
     public int maxDepth(TreeNode root) {
-        if(root==null)return 1;
+        if(root==null)return 0;
 
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
