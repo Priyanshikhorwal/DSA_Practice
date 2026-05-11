@@ -1,4 +1,15 @@
+import java.util.LinkedList;
+
 class MaxDepthofTree {
+
+    private class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
+        TreeNode(int val) {
+            this.val=val;
+        }
+    }
     public int maxDepth(TreeNode root) {
         if(root==null)return 0;
 
