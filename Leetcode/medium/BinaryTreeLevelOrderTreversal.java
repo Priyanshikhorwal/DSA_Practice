@@ -6,7 +6,7 @@ public class BinaryTreeLevelOrderTreversal {
         int val;
         TreeNode left;
         TreeNode right;
-        TreeNode(int val) {
+            TreeNode(int val) {
             this.val=val;
         }
     }
