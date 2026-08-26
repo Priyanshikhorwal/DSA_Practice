@@ -46,3 +46,15 @@ I solve problems daily to improve consistency and problem-solving skills.
 ---
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0860-lemonade-change) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0860-lemonade-change) |
+<!---LeetCode Topics End-->
