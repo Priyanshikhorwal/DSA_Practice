@@ -62,4 +62,20 @@ I solve problems daily to improve consistency and problem-solving skills.
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0283-move-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
