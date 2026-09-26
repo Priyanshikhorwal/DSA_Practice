@@ -78,4 +78,8 @@ I solve problems daily to improve consistency and problem-solving skills.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
