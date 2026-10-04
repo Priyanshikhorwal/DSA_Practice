@@ -52,6 +52,7 @@ I solve problems daily to improve consistency and problem-solving skills.
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0283-move-zeroes](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0860-lemonade-change](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0860-lemonade-change) |
 ## Greedy
@@ -90,4 +91,8 @@ I solve problems daily to improve consistency and problem-solving skills.
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
