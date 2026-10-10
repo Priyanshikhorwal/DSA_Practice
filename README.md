@@ -53,6 +53,7 @@ I solve problems daily to improve consistency and problem-solving skills.
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0041-first-missing-positive) |
+| [0238-product-of-array-except-self](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0860-lemonade-change](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0860-lemonade-change) |
 ## Greedy
@@ -95,4 +96,8 @@ I solve problems daily to improve consistency and problem-solving skills.
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0041-first-missing-positive) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
