@@ -68,10 +68,12 @@ I solve problems daily to improve consistency and problem-solving skills.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -80,6 +82,7 @@ I solve problems daily to improve consistency and problem-solving skills.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Database
 |  |
 | ------- |
@@ -100,4 +103,8 @@ I solve problems daily to improve consistency and problem-solving skills.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Priyanshikhorwal/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
